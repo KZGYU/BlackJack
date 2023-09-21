@@ -11,7 +11,6 @@ import bean.Human;
 
 /**
  * 共通関数
- * @author copper_dog
  */
 public class CommonFunc {
 

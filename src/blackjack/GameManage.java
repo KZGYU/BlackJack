@@ -13,7 +13,6 @@ import common.CommonFunc;
 
 /**
  * ブラックジャックを管理するクラス
- * @author copper_dog
  *
  */
 public final class GameManage {

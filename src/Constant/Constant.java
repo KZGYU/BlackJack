@@ -2,8 +2,7 @@ package Constant;
 
 /**
  * 定数クラス
- * @author copper_dog
- *
+
  */
 public class Constant {
 
@@ -60,7 +59,7 @@ public class Constant {
 	/** ユーザーにbet金を選ばせる文字 **/
 	public static final String CHOICE_USER_BET = "\nベットするベルを入力してください(end -> 終了)\n  >";
 	/** ユーザーに次の行動を選ばせる文字 **/
-	public static final String CHOICE_USER_ACTION = "もう一回、遊べるドン。\n  y: yes  n:no\n  >";
+	public static final String CHOICE_USER_ACTION = "もう一回、遊びますか？　\n  y: yes  n:no\n  >";
 	/** プレイヤーに次の行動を選ばせる文字1 **/
 	public static final String CHOICE_PLAYER_ACTION1 = "の行動を選択してください。\n  h: hit  s:stay";
 	/** プレイヤーに次の行動を選ばせる文字2 **/
@@ -84,7 +83,7 @@ public class Constant {
 	/** 損した報告 **/
 	public static final String RESULT_LOST = "ベル負けました。 ";
 	/** ゲーム終了の挨拶 **/
-	public static final String THANKS = "\n  copper_dog「Thank you for playing!! :)」    ";
+	public static final String THANKS = "\n  「Thank you for playing!! :)」    ";
 	/** ゲーム開始の挨拶 **/
 	public static final String GAME_START = "    ゲーム開始!!    ";
 	/** ゲーム開始の挨拶 **/

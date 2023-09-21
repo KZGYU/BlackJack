@@ -9,7 +9,6 @@ import bean.Player;
 
 /**
  * コンソール処理関連をまとめてる
- * @author copper_dog
  *
  */
 public final class ConsoleManager {

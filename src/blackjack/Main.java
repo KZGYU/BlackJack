@@ -5,8 +5,6 @@ import Constant.SettingConst;
 
 /**
  * main class
- * @author copper_dog
- *
  */
 public class Main {
 

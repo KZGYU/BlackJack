@@ -8,7 +8,6 @@ import common.CommonFunc;
  * Singletonパターン ディーラーのbean
  * 注1)状態を持たないこと
  * 注2)ポリモーフィズムが絡むこと
- * @author copper_dog
  *
  */
 public class Dealer extends Human {

@@ -9,7 +9,6 @@ import common.CommonFunc;
 
 /**
  * プレイヤーのbean
- * @author copper_dog
  *
  */
 public class Player extends Human {
@@ -114,7 +113,7 @@ public class Player extends Human {
     }
 
     /**
-	 * double downが可能かどうか判定する
+	 * doubling downが可能かどうか判定する
 	 * @return double downが可能かどうか
 	 */
     public boolean possibleDoubleDown(){
